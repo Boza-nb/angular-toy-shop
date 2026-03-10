@@ -1,0 +1,11 @@
+.card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 16px;
+    justify-content: center;
+}
+
+.toy-card {
+    width: 280px;
+}
